@@ -161,7 +161,7 @@ Este comparador é **fácil de entender, modular e eficiente**. Pode ser usado e
 - **Circuitos digitais educacionais**  
 ---
 ### **📎 Anexos**  
-- [Repositório GitHub do Projeto](link_para_imagem)
+- [Repositório GitHub do Projeto](https://github.com/jhacksonh/Circuito_Comparador_2bits_EmbarcaTech_T2.git)
 
 **👨💻 Autor:** Jacson Souza Dos Santos  
 **📅 Data:** 09/05/2025
